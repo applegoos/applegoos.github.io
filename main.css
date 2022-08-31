@@ -3,7 +3,7 @@ body {
 	font-family:  Helvetica, Arial, sans-serif;
 	margin: 0px;
 	padding: 0;
-  background-image: url("Images/ezgif.com-gif-maker\ \(5\).gif");
+  background-image: url("images/ezgif.com-gif-maker\ \(5\).gif");
   opacity: 1;
   background-repeat: repeat-y; 
   position: relative;
@@ -110,7 +110,7 @@ header .logo a{
   background-size: 250px;
   display: inline-block;
  background-color:  red;
- background-image: url("Images/kacha.png");
+ background-image: url("images/kacha.png");
  background-repeat: no-repeat;
  position: relative;
  left: -40px;
